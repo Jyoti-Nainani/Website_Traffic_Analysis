@@ -15,5 +15,7 @@ Python| Jupyter Notebook| Pandas| Numpy| Matplotlib| Seaborn
 
 ## Key insights: ##
 ### Sessions and Users Over Time ###
+!(SessionsAndUserOverTime.png)
+
   
 
